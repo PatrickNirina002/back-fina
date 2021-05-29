@@ -42,7 +42,7 @@
     "validator": "^10.4.0",
     "multer-gridfs-storage": "^3.2.3",
     "socket.io": "^2.2.0",
-    "ws": "^7.0.1"
+    "ws": "^7.4.6"
   },
   "engines": {
     "node": "v10.16.0"
